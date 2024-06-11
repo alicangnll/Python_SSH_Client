@@ -1,0 +1,10 @@
+bidict
+click
+flask
+flask-socketio
+itsdangerous
+jinja2
+markupsafe
+python-engineio
+python-socketio
+werkzeug
